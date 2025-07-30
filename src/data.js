@@ -27,7 +27,7 @@ const data = {
 			language2: "GEÇ",
 		},
 		heroSection: {
-			name: "Emin Mengi",
+			name: "Asel Haraççı",
 			title1: "Creative thinker",
 			title2: "Minimalist lover",
 			intro: "Hi, I’m Emin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
