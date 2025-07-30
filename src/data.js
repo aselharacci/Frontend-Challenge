@@ -20,7 +20,7 @@ const data = {
 					text: "Hire me",
 				},
 			],
-			nameIcon: "E",
+			nameIcon: "A",
 			darkMode: "DARK MODE",
 			lightMode: "LIGHT MODE",
 			language1: "TÜRKÇE'YE",
@@ -29,8 +29,8 @@ const data = {
 		heroSection: {
 			name: "Asel Haraççı",
 			title1: "Creative thinker",
-			title2: "Minimalist lover",
-			intro: "Hi, I’m Emin. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
+			title2: "Minimalism lover",
+			intro: "Hi, I’m Asel. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me.",
 			buttons: [
 				{
 					text: "Hire me",
@@ -39,12 +39,12 @@ const data = {
 				},
 				{
 					text: "Github",
-					link: "https://github.com/kaanarslann?tab=repositories",
+					link: "https://github.com/aselharacci",
 					icon: faGithub,
 				},
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/kaan-arslan-6a3b60138/",
+					link: "https://www.linkedin.com/in/asel-irem-haracci-6362b3146/",
 					icon: faLinkedinIn,
 				}
 			],
@@ -71,12 +71,12 @@ const data = {
 			title: "Profile",
 			profile: "Profile",
 			birthday1: "Birth Date",
-			birthday2: "14.09.1992",
+			birthday2: "18.10.1995",
 			city1: "City ​​of Residence",
 			city2: "İstanbul",
 			education1: "Education Status",
-			education2: "İstanbul Aydın Uni.",
-			education3: "Mech Eng. Master's Degree, 2020",
+			education2: "İstanbul Bilgi University",
+			education3: "Public Relations, 2019",
 			role1: "Preferred Role",
 			role2: "Frontend, UI",
 			aboutMe: "About Me",
@@ -116,8 +116,8 @@ const data = {
 					],
 				},
 				{
-					name: "Technological Foods",
-					description: "A Single Page Application project. This React project was created using Vite. It uses React Router to navigate between components, Axios to post FormData to a mock api service, prop lifting to transfer order data and Cypress to test several success and error scenarios.",
+					name: "Random Jokes",
+					description: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
 					image: project2,
 					buttons: [
 						{
@@ -136,17 +136,17 @@ const data = {
 					links: [
 						{
 							text: "Github",
-							link: "https://github.com/kaanarslann/fsweb-s8-challenge-pizza",
+							link: "#",
 						},
 						{
 							text: "View Site",
-							link: "https://fsweb-s8-challenge-pizza-alpha.vercel.app/",
+							link: "#"
 						},
 					],
 				},
 				{
-					name: "project3",
-					description: "A simple, static web page. This was one of my first frontend projects. It uses fundamental HTML elements, a scroll feature to horizontally scroll movie items, Fontawesome icons to create features like star ratings and CSS to create the skeleton of a Netflix-like page.",
+					name: "Journey",
+					description: "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.",
 					image: project3,
 					buttons: [
 						{
@@ -165,11 +165,11 @@ const data = {
 					links: [
 						{
 							text: "Github",
-							link: "https://github.com/kaanarslann/project3",
+							link: "#",
 						},
 						{
 							text: "View Site",
-							link: "https://wit-flix-liard.vercel.app/",
+							link: "#",
 						},
 					],
 				},
@@ -177,12 +177,12 @@ const data = {
 		},
 		footerSection: {
 			title: "Let's work together on your next product.",
-			email: "kaanarslan_hp@hotmail.com",
+			email: "asel.haracci@gmail.com",
 			blog: "Personal Blog",
 			github: "Github",
-			githubLink: "https://github.com/kaanarslann?tab=repositories",
+			githubLink: "https://github.com/aselharacci",
 			linkedin: "Linkedin",
-			linkedinLink: "https://www.linkedin.com/in/kaan-arslan-6a3b60138/",
+			linkedinLink: "https://www.linkedin.com/in/asel-irem-haracci-6362b3146/",
 		},
 	},
 	tr: {
@@ -195,34 +195,34 @@ const data = {
 					text: "Projeler",
 				},
 				{
-					text: "İşe al",
+					text: "Birlikte Çalışalım",
 				},
 			],
-			nameIcon: "K",
+			nameIcon: "A",
 			darkMode: "KARANLIK MOD",
 			lightMode: "AYDINLIK MOD",
 			language1: "SWITCH TO",
 			language2: "ENGLISH",
 		},
 		heroSection: {
-			name: "Emin Mengi",
+			name: "Asel Haraççı",
 			title1: "Yaratıcı düşünür",
-			title2: "Minimalist sever",
-			intro: "Merhaba, ben Kaan. Ben bir full-stack geliştiriciyim. Harika kullanıcı deneyimiyle, sağlam ve ölçeklenebilir frontend ürünler geliştiribelen bir geliştirici arıyorsanız, gelin el sıkışalım.",
+			title2: "Minimalizm sever",
+			intro: "Merhaba, ben Asel. Ben bir full-stack geliştiriciyim. Harika kullanıcı deneyimiyle, sağlam ve ölçeklenebilir frontend ürünler geliştiribelen bir geliştirici arıyorsanız, gelin el sıkışalım.",
 			buttons: [
 				{
-					text: "İşe al",
+					text: "Birlikte çalışalım",
 					link: "#",
 					icon: "",
 				},
 				{
 					text: "Github",
-					link: "https://github.com/kaanarslann?tab=repositories",
+					link: "https://github.com/aselharacci",
 					icon: faGithub,
 				},
 				{
 					text: "Linkedin",
-					link: "https://www.linkedin.com/in/kaan-arslan-6a3b60138/",
+					link: "https://www.linkedin.com/in/asel-irem-haracci-6362b3146/",
 					icon: faLinkedinIn,
 				}
 			],
@@ -233,15 +233,15 @@ const data = {
 			skills: [
 				{
 					name: "JavaScript",
-					info: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					info: "Kullanıcılarınızın hangi çerezleri kabul edip reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimum kurulum gerektiren bir çerez eklentisidir. Bu eklenti, standart JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
 				},
 				{
 					name: "React.Js",
-					info: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					info: "Kullanıcılarınızın hangi çerezleri kabul edip reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimum kurulum gerektiren bir çerez eklentisidir. Bu eklenti, standart JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
 				},
 				{
 					name: "Node.Js",
-					info: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					info: "Kullanıcılarınızın hangi çerezleri kabul edip reddedeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimum kurulum gerektiren bir çerez eklentisidir. Bu eklenti, standart JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, kod ve temalarda her türlü özelleştirmeyi mümkün kılar.",
 				}
 			],
 		},
@@ -249,12 +249,12 @@ const data = {
 			title: "Profil",
 			profile: "Profil",
 			birthday1: "Doğum Tarihi",
-			birthday2: "14.09.1992",
+			birthday2: "18.10.1995",
 			city1: "İkamet Şehri",
 			city2: "İstanbul",
 			education1: "Eğitim Durumu",
-			education2: "İstanbul Aydın Ünv.",
-			education3: "Makine Müh. Yüksek Lisans 2020",
+			education2: "İstanbul Bilgi Ünviversitesi",
+			education3: "Halkla İlişkiler, 2019",
 			role1: "Tercih Ettiği Rol ",
 			role2: "Frontend, UI",
 			aboutMe: "Hakkımda",
@@ -294,7 +294,7 @@ const data = {
 					],
 				},
 				{
-					name: "Teknolojik Yemekler",
+					name: "Random Jokes",
 					description: "Bir tek sayfa uygulama projesidir. Bu React projesi Vite kullanılarak oluşturulmuştur. Bileşenler arasında gezinmek için React Router'ı, FormData'yı bir sahte api hizmetine göndermek için Axios'u ve birkaç başarı ve hata senaryosunu test etmek için Cypress'i kullanır.",
 					image: project2,
 					buttons: [
@@ -323,7 +323,7 @@ const data = {
 					],
 				},
 				{
-					name: "project3",
+					name: "Journey",
 					description: "Basit, statik bir web sayfasıdır. İlk frontend projelerimden biriydi. Temel HTML öğelerini, film kutularını yatay kaydırmak için bir kaydırma özelliğini, yıldız derecelendirmeleri gibi özellikler oluşturmak için Fontawesome simgelerini ve Netflix benzeri bir sayfanın iskeletini oluşturmak için CSS kullanır.",
 					image: project3,
 					buttons: [
@@ -355,12 +355,12 @@ const data = {
 		},
 		footerSection: {
 			title: "Haydi bir sonraki ürününüzde birlikte çalışalım.",
-			email: "kaanarslan_hp@hotmail.com",
+			email: "asel.haracci@gmail.com",
 			blog: "Kişisel Blog",
 			github: "Github",
-			githubLink: "https://github.com/kaanarslann?tab=repositories",
+			githubLink: "https://github.com/aselharacci",
 			linkedin: "Linkedin",
-			linkedinLink: "https://www.linkedin.com/in/kaan-arslan-6a3b60138/",
+			linkedinLink: "https://www.linkedin.com/in/asel-irem-haracci-6362b3146/",
 		},
 	},
 }
